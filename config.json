@@ -7,5 +7,6 @@
   "accent_color": "#FF8C00",
   "login_button": "LOGIN",
   "launch_button": "LAUNCH",
-  "maintenance": false
+  "panel_url": "https://vip-pannel.authapi.xyz/connect",
+  "maintenance": true
 }
