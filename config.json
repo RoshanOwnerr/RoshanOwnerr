@@ -1,0 +1,11 @@
+{
+  "app_name": "BATTLE ADMIN",
+  "subtitle": "Secure Game Panel",
+  "background_color": "#F4F6FA",
+  "card_color": "#FFFFFF",
+  "input_color": "#EEF2F7",
+  "accent_color": "#FF8C00",
+  "login_button": "LOGIN",
+  "launch_button": "LAUNCH",
+  "maintenance": false
+}
